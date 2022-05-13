@@ -1,0 +1,102 @@
+{
+  "configVersion": 1,
+  "timestamp": 1652427763167,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.6a77aed646af603415c3.js",
+        "/main-es5.6a77aed646af603415c3.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.4eb191482be2254421ff.js",
+        "/polyfills-es5.212e1daaa7ab7b9975d1.js",
+        "/runtime-es2015.66c79b9d36e7169e27b0.js",
+        "/runtime-es5.66c79b9d36e7169e27b0.js",
+        "/styles.588a1efea3b601cc87c3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/fonts/Orbitron-Black.ttf",
+        "/assets/fonts/Orbitron-Bold.ttf",
+        "/assets/fonts/Orbitron-ExtraBold.ttf",
+        "/assets/fonts/Orbitron-Medium.ttf",
+        "/assets/fonts/Orbitron-Regular.ttf",
+        "/assets/fonts/Orbitron-SemiBold.ttf",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/Logo.png",
+        "/assets/images/Pleximeter.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/fonts/Orbitron-Black.ttf": "066bff1107c6a95fa27cde5d5b2bd53cb6fe5fd4",
+    "/assets/fonts/Orbitron-Bold.ttf": "e238665bf41d7d1b6ecc23d6cf74c97e10e4bd61",
+    "/assets/fonts/Orbitron-ExtraBold.ttf": "d1817f0e8377286a57e94a67cfcbffa30c76bad4",
+    "/assets/fonts/Orbitron-Medium.ttf": "a98c434c6d60c360723bbce6c8fd2673f7be54be",
+    "/assets/fonts/Orbitron-Regular.ttf": "b9b2d475d972ec8789318f713adb18f6ad6af966",
+    "/assets/fonts/Orbitron-SemiBold.ttf": "75a0c730a36f55c3bf22028c95d3ed44bd63177e",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/Logo.png": "693ffe9be6ae8b05c0772319c2548bdf7e880bd2",
+    "/assets/images/Pleximeter.svg": "756848ff6cd2d396776a8f32265aaff1757564ff",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "f1623d28a3c21edcf90f7ca584145685292e5efc",
+    "/main-es2015.6a77aed646af603415c3.js": "64edc41d0634320d8ecd6f3bd5fbd2576498c62c",
+    "/main-es5.6a77aed646af603415c3.js": "64d7d03bd84fe7f97656f4f85e74a905e0c15ffd",
+    "/manifest.webmanifest": "b56eb99f7d4bf6209454b5ec421f45728a47944a",
+    "/polyfills-es2015.4eb191482be2254421ff.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
+    "/polyfills-es5.212e1daaa7ab7b9975d1.js": "2c45840c26544ccc18ce51cf9122e38cadf21a90",
+    "/runtime-es2015.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.66c79b9d36e7169e27b0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.588a1efea3b601cc87c3.css": "fd580d392496dac2b716d5cdba807ff3a03367ed"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
